@@ -187,7 +187,7 @@ Full interactive docs: **http://localhost:8000/docs**
 
 ## 🤖 AI Tool Declaration
 
-This project was built with the assistance of AI coding tools (Claude) for code generation and architecture design.
+This project was developed collaboratively, combining human expertise and decision-making with Claude’s assistance in code generation and architecture design.
 
 ---
 
